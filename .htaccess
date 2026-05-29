@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteBase /Smart-Procurement/
+
+# Serve existing files and directories directly
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Exclude API, assets, uploads, vendor from SPA rewrite
+RewriteRule ^api/ - [L]
+RewriteRule ^assets/ - [L]
+RewriteRule ^uploads/ - [L]
+RewriteRule ^vendor/ - [L]
+
+# Fallback to index.php for client-side routes
+DirectoryIndex index.php index.html
+RewriteRule ^ index.php [L,QSA]

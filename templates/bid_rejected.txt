@@ -1,0 +1,17 @@
+SUBJECT: Bid Result - {PROJECT_TITLE}
+
+Dear {SUPPLIER_NAME},
+
+Thank you for submitting your bid for the procurement project "{PROJECT_TITLE}". 
+
+We regret to inform you that your bid was not selected in this round. The procurement office has chosen another supplier that better meets the project requirements.
+
+We encourage you to continue participating in future procurement opportunities. Please check the opportunities page regularly for new projects that may match your services.
+
+To view upcoming opportunities, visit:
+http://localhost/Smart-Procurement/supplier/opportunities.php
+
+Thank you for your participation and the effort you put into your bid.
+
+Best regards,
+Smart Procurement System

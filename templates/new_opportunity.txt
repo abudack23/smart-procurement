@@ -1,0 +1,19 @@
+SUBJECT: New Procurement Opportunity - {PROJECT_TITLE}
+
+Dear {SUPPLIER_NAME},
+
+A new procurement opportunity has been posted that may interest you:
+
+PROJECT TITLE: {PROJECT_TITLE}
+DESCRIPTION: {PROJECT_DESCRIPTION}
+BUDGET: {PROJECT_BUDGET}
+SUBMISSION DEADLINE: {SUBMISSION_DEADLINE}
+REQUIRED DELIVERY TIME: {DELIVERY_DAYS} days
+
+Please review the opportunity details and submit your bid before the deadline.
+
+To view and submit your bid, log in to your bidder account at:
+http://localhost/Smart-Procurement/supplier/opportunities.php
+
+Best regards,
+Smart Procurement System

@@ -1,0 +1,19 @@
+SUBJECT: Congratulations! Your Bid Has Been Awarded - {PROJECT_TITLE}
+
+Dear {SUPPLIER_NAME},
+
+Excellent news! Your bid for the procurement project "{PROJECT_TITLE}" has been selected and awarded.
+
+PROJECT TITLE: {PROJECT_TITLE}
+YOUR BID PRICE: {BID_PRICE}
+DELIVERY TIMELINE: {DELIVERY_DAYS} days
+
+Congratulations on winning this procurement opportunity. The procurement office will be in touch with further details regarding payment terms, contract execution, and delivery arrangements.
+
+For more information, visit your dashboard:
+http://localhost/Smart-Procurement/supplier/dashboard.php
+
+Thank you for your excellent bid!
+
+Best regards,
+Smart Procurement System

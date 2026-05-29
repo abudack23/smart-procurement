@@ -1,0 +1,19 @@
+SUBJECT: Your Bid Has Been Submitted - {PROJECT_TITLE}
+
+Dear {SUPPLIER_NAME},
+
+Your bid for the procurement project "{PROJECT_TITLE}" has been successfully submitted and is under review.
+
+BID DETAILS:
+Proposed Price: {BID_PRICE}
+Delivery Timeline: {DELIVERY_DAYS} days
+
+Our evaluation team will review your bid along with other submissions. You will be notified once a decision has been made.
+
+To track your bid status, visit:
+http://localhost/Smart-Procurement/supplier/dashboard.php
+
+Thank you for your participation!
+
+Best regards,
+Smart Procurement System

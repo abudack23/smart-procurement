@@ -1,0 +1,566 @@
+-----
+To: chanchan122301@gmail.com
+Subject: Welcome to Smart Procurement System
+
+Dear Chanchan,
+
+Welcome to the Smart Procurement System! Your account has been successfully created.
+
+Your Login Information:
+Email: chanchan122301@gmail.com
+Role: Supplier
+
+To log in and start using the system, visit:
+http://localhost/Smart-Procurement/index.php
+
+If you have any questions or need assistance, please don't hesitate to contact us.
+
+Best regards,
+Smart Procurement System
+-----
+-----
+To: chanchan122301@gmail.com
+Subject: Welcome to Smart Procurement System
+
+Dear CHRISTIAN KERR ABUDA,
+
+Welcome to the Smart Procurement System! Your account has been successfully created.
+
+Your Login Information:
+Email: chanchan122301@gmail.com
+Role: Admin
+
+To log in and start using the system, visit:
+http://localhost/Smart-Procurement/index.php
+
+If you have any questions or need assistance, please don't hesitate to contact us.
+
+Best regards,
+Smart Procurement System
+-----
+-----
+To: supplier@example.test
+Subject: Welcome to Smart Procurement System
+
+Dear Test Supplier,
+
+Welcome to the Smart Procurement System! Your account has been successfully created.
+
+Your Login Information:
+Email: supplier@example.test
+Role: Supplier
+
+To log in and start using the system, visit:
+http://localhost/Smart-Procurement/index.php
+
+If you have any questions or need assistance, please don't hesitate to contact us.
+
+Best regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: Bid Awarded
+
+Hello Xin Xin,
+
+Congratulations! Your bid for 'Books' has been awarded.
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: Bid Result
+
+Hello Xian Xian,
+
+Your bid for 'Books' was not selected. Thank you for participating.
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Notebooks
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Notebooks
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Paper
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Paper
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Ink
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Ink
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Crayons
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Crayons
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Acrylic
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Acrylic
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Blackboard
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Blackboard
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Erasers
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Erasers
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Painting
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Painting
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: New procurement available
+
+Hello Xian Xian,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Sculpture
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Books
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: New procurement available
+
+Hello Xin Xin,
+
+A new procurement has been posted: Pens and Pencils
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: Bid Awarded
+
+Hello Xin Xin,
+
+Congratulations! Your bid for 'Pens and Pencils' has been awarded.
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xinxinsupplier@gmail.com
+Subject: Bid Awarded
+
+Hello Xin Xin,
+
+Congratulations! Your bid for 'Books' has been awarded.
+
+Regards,
+Smart Procurement System
+-----
+-----
+To: xianxiansupplier@gmail.com
+Subject: Bid Result
+
+Hello Xian Xian,
+
+Your bid for 'Books' was not selected. Thank you for participating.
+
+Regards,
+Smart Procurement System
+-----

@@ -1,0 +1,17 @@
+SUBJECT: Welcome to Smart Procurement System
+
+Dear {USER_NAME},
+
+Welcome to the Smart Procurement System! Your account has been successfully created.
+
+Your Login Information:
+Email: {USER_EMAIL}
+Role: {USER_ROLE}
+
+To log in and start using the system, visit:
+http://localhost/Smart-Procurement/index.php
+
+If you have any questions or need assistance, please don't hesitate to contact us.
+
+Best regards,
+Smart Procurement System
