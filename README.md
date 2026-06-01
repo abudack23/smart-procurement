@@ -14,11 +14,15 @@ The system includes predictive bid evaluation and simple decision support based 
 4. Import `db_init.sql` or run the SQL script.
 5. Update database credentials in `includes/config.php` if needed.
 
+## Deployment
+This repository now uses a single PHP/Tailwind-based deployment model under `http://localhost/Smart-Procurement/`.
+The React/Vite UI scaffold previously present in `frontend/` is archived and not part of the live XAMPP deployment.
+
 ## Usage
 - Open `http://localhost/Smart-Procurement/index.php`
--- Suppliers register at `http://localhost/Smart-Procurement/register.php`
--- Supplier login: `http://localhost/Smart-Procurement/supplier_login.php`
--- Admin login: `http://localhost/Smart-Procurement/admin_login.php` (no public admin registration)
+- Suppliers register at `http://localhost/Smart-Procurement/register.php`
+- Supplier login: `http://localhost/Smart-Procurement/supplier_login.php`
+- Admin login: `http://localhost/Smart-Procurement/admin_login.php` (no public admin registration)
 - Suppliers are automatically assigned `role='supplier'` through public registration.
 - Admin accounts must be created manually in the database or by an authorized admin user. Public registration cannot create admin accounts.
 - Admins can create procurements, view bidders, evaluate and award bids.

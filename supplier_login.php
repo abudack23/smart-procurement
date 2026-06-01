@@ -41,6 +41,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 renderGuestPageStart('Supplier Login');
 ?>
+<div class="mb-4">
+    <a href="index.php" class="inline-flex items-center gap-2 text-sm font-semibold text-[#1e0178] hover:underline">&larr; Back to Home</a>
+</div>
 <form action="supplier_login.php" method="post" class="space-y-6">
   <div class="form-control">
     <label class="block text-sm font-medium text-slate-700">Email</label>
@@ -52,9 +55,9 @@ renderGuestPageStart('Supplier Login');
   </div>
   <button type="submit" class="w-full rounded-3xl bg-slate-900 px-4 py-3 text-sm font-semibold text-white hover:bg-slate-800">Sign in</button>
 </form>
-<div class="mt-6 text-center text-sm text-slate-500">
-  <p>Don’t have an account? <a href="register.php" class="font-semibold text-slate-900 hover:underline">Register as supplier</a></p>
-  <p class="mt-2"><a href="admin_login.php" class="font-semibold text-slate-900 hover:underline">Go to admin login</a></p>
+<div class="mt-6 text-center text-sm">
+    <p>Don’t have an account? <a href="register.php" class="font-semibold text-[#1e0178] hover:underline">Register as supplier</a></p>
+    <p class="mt-2"><a href="admin_login.php" class="font-semibold text-[#1e0178] hover:underline">Admin Login</a></p>
 </div>
 <?php
 renderGuestPageEnd();

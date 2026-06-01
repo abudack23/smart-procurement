@@ -78,7 +78,7 @@ renderAuthPageStart('Profile', 'profile');
         <label class="block text-sm font-medium text-slate-700">Past experience</label>
         <textarea name="past_experience" rows="4" class="mt-2 w-full rounded-3xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-900 focus:border-slate-900 focus:ring-2 focus:ring-slate-200"><?= htmlspecialchars($experience) ?></textarea>
       </div>
-      <div class="grid gap-4 sm:grid-cols-2">
+      <div id="change-password" class="grid gap-4 sm:grid-cols-2">
         <div>
           <label class="block text-sm font-medium text-slate-700">New password</label>
           <input type="password" name="password" class="mt-2 w-full rounded-3xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-900 focus:border-slate-900 focus:ring-2 focus:ring-slate-200" />

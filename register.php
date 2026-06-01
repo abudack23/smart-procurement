@@ -42,6 +42,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 renderGuestPageStart('Register');
 ?>
+<div class="mb-4">
+  <a href="index.php" class="inline-flex items-center gap-2 text-sm font-semibold text-[#1e0178] hover:underline">&larr; Back to Home</a>
+</div>
 <form action="register.php" method="post" class="space-y-6">
   <div class="form-control">
     <label class="block text-sm font-medium text-slate-700">Full name</label>
